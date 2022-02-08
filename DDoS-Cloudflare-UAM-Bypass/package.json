@@ -1,0 +1,28 @@
+{
+  "name": "ddos-cloudflare-uam-bypass",
+  "version": "1.0.0",
+  "description": "$ pip freeze > requirements.txt\r # show the file's contents\r $ cat requirements.txt\r $ pip3 install -r requirements.txt :D",
+  "main": "Cloudflare.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XeCryptSHA/DDoS-Cloudflare-UAM-Bypass-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XeCryptSHA/DDoS-Cloudflare-UAM-Bypass-/issues"
+  },
+  "homepage": "https://github.com/XeCryptSHA/DDoS-Cloudflare-UAM-Bypass-#readme",
+  "dependencies": {
+    "ciphers": "^1.0.0",
+    "cloudscraper": "^4.6.0",
+    "cluster": "^0.7.7",
+    "fs": "^0.0.1-security",
+    "minimist": "^1.2.5",
+    "request": "^2.88.2",
+    "request-progress": "^3.0.0"
+  }
+}

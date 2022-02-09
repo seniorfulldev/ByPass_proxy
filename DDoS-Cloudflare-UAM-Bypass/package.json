@@ -22,6 +22,7 @@
     "cluster": "^0.7.7",
     "fs": "^0.0.1-security",
     "minimist": "^1.2.5",
+    "proxy-lists": "^1.23.3",
     "request": "^2.88.2",
     "request-progress": "^3.0.0"
   }

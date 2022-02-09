@@ -113,6 +113,7 @@ function attack(s_proxy)
 				uri: args['url'],
 				jar: request.jar(),
 				proxy: p_proxy,
+				// https://github.com/codemanki/cloudscraper/issues/233#issuecomment-510342262
 				headers: {
 					'User-Agent': uas[Math.floor(Math.random() * uas.length)].replace(/\s/g, ""), //remove empty space
 					'Cache-Control': 'private',

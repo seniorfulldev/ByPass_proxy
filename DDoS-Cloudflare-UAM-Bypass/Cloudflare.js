@@ -107,8 +107,6 @@ function attack(s_proxy)
 		{
 			if(stop == true)
 			break;
-			console.log('user-agent', uas[Math.floor(Math.random() * uas.length)].replace(/\s/g, ""));
-			console.log('user-agent-length', uas.length);
 			var options = {
 				uri: args['url'],
 				jar: request.jar(),

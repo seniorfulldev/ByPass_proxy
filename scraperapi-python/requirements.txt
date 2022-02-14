@@ -1,0 +1,8 @@
+requests==2.26.0
+bs4==0.0.1
+futures==3.1.1 
+lxml==4.7.1
+scraperapi-sdk==0.2.2
+Scrapy3==1.0.1
+selenium==4.1.0
+webdriver-manager==3.5.2

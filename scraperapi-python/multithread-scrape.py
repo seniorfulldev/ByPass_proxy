@@ -1,65 +1,81 @@
-from os import times, urandom
 from bs4 import BeautifulSoup
-import requests
-import requests.exceptions
-import sys
-import csv
 import concurrent.futures
-import threading
-import time
-MAX_THREADS = 20
+import csv
+import urllib.parse
+from scraper_api import ScraperAPIClient
 
 
-def extract_movie_details(movie_link):
-    # times.sleep(urandom.uniform(0, 0.2))
-    movie_soup = BeautifulSoup(requests.get(movie_link).text, 'lxml')
-    # print(movie_soup)
-    title = movie_soup.find(
-        "span", attrs={"data-testid": "title"}).get_text()
+"""
+SCRAPER SETTINGS
+You need to define the following values below:
+- API_KEY --> Find this on your dashboard url: https://dashboard.scraperapi.com/dashboard
+                
+- NUM_THREADS --> Set this equal to the number of concurrent threads available
+                in your scraperapi plan.
+"""
+API_KEY = 'd3ac880a20ac99c18859cfac13de7a03'
+NUM_RETRIES = 3
+NUM_THREADS = 10
 
-    rating = movie_soup.find("span", attrs={"class": "ipc-rating-star--imdb"}).get_text(
-    ) if movie_soup.find("span", attrs={"class": "ipc-rating-star--imdb"}) else None
+client = ScraperAPIClient(API_KEY)
 
-    print(title, rating)
+# Example list of urls to scrape
+list_of_urls = [
+    'https://www.sportsmansguide.com/productlist?k=glock%2043',
+    'https://www.sportsmansguide.com/productlist?k=Beretta%20M9',
+]
 
-    with open('./data/result.csv', mode='a') as f:
-        movie_writer = csv.writer(
-            f, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
-        movie_writer.writerow([title, rating])
+scraped_quotes = []
 
+def scrape_url(url):
+    print(urllib.parse.urlparse(url).query)
+    query = urllib.parse.urlparse(url).query
+    title_query = query.split('=')[1]
+    kquery = title_query
+    if '%20' in title_query:
+        key = '%20'
+        kquery = title_query.replace(key, '_')
+        print(kquery)
+    response = client.get(url=url, retry=NUM_RETRIES)
 
-def extract_movies(soup):
-    movies_table = soup.find(
-        "table", attrs={"data-caller-name": "chart-moviemeter"}).find("tbody")
-    movies_tablerows = movies_table.find_all("tr")
-    movie_links = ["https://imdb.com" +
-                   movie.find("a")["href"] for movie in movies_tablerows]
+    # parse data if 200 status code (successful response)
+    if response.status_code == 200:
+        # Example: parse data with beautifulsoup
+        html_response = response.text
+        soup = BeautifulSoup(html_response, "html.parser")
+        quotes_sections = soup.find_all('div', class_="product-tile")
 
-    # for movie_link in movie_links:
-    #     print(movie_link)
-    #     extract_movie_details(movie_link)
-    threads = min(MAX_THREADS, len(movie_links))  # no. of threads to use
-    with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_THREADS) as executor:
-        executor.map(extract_movie_details, movie_links)
+        # loop through each quotes section and extract the quote and author
+        for quote_block in quotes_sections:
+            if(quote_block.find('img', class_='product') is None):
+                continue
+            title = quote_block.find('h2').text
+            if(quote_block.find('p', class_='sold-out') is None):
+                price = quote_block.find('span', class_='price').text
+            else:    
+                price = quote_block.find('p', class_='sold-out').text
+            if(quote_block.find('span', class_='rating-count') is None):
+                rating = "No Given Review"
+            else:    
+                rating = quote_block.find('span', class_='rating-count').text
+            if(quote_block.find('img', class_='product').get('data-src') is None):
+                image = quote_block.find('img', class_='product')['src']
+            else:
+                image = quote_block.find('img', class_='product').get('data-src')
 
+            # add scraped data to "scraped_quotes" list
+            scraped_quotes.append({
+                'image': image,
+                'title': title,
+                'rating': rating,
+                'price': price
+            })
+            with open('./data/{}.csv'.format(kquery), mode='a') as f:
+                result_writer = csv.writer(
+                    f, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+                result_writer.writerow([image, title, price, rating])
+    else:
+        print(response.status_code)
 
-def main():
-    start = time.time()
-    print(start)
-    # start_time = times.time()
-    # IMDB Most Popular Movies - 100 movies
-    popular_movies_url = 'https://www.imdb.com/chart/moviemeter/?ref_=nv_mv_mpm'
-    r = requests.get(popular_movies_url)
-    # soup = bs(r.content)
-    soup = BeautifulSoup(r.text, 'lxml')
-
-    # Main function to extract the 100 movies from IMDB Most Popular Movies
-    extract_movies(soup)
-
-    # end_time = times.time()
-    # print("Total time taken: ", end_time-start_time)
-    end = time.time()
-    print("Total time taken: ", end - start)
-
-
-main()
+with concurrent.futures.ThreadPoolExecutor(max_workers=NUM_THREADS) as executor:
+    executor.map(scrape_url, list_of_urls)

@@ -1,0 +1,2098 @@
+[
+    {
+        "seo": "10mm-auto",
+        "label": "10mm Auto"
+    },
+    {
+        "seo": "25acp",
+        "label": ".25 ACP (.25 Auto, 6.35mm)"
+    },
+    {
+        "label": "6.35mm (.25 ACP/Auto)",
+        "seo": "25acp"
+    },
+    {
+        "seo": "25naa",
+        "label": ".25 NAA"
+    },
+    {
+        "label": ".30 Luger (7.65mm x 21mm)",
+        "seo": "30-luger"
+    },
+    {
+        "seo": "30-luger",
+        "label": "7.65x21mm (.30 Luger)"
+    },
+    {
+        "label": ".32 ACP (.32 Auto, 7.65 Browning)",
+        "seo": "32acp"
+    },
+    {
+        "seo": "32acp",
+        "label": "7.65 Browning (.32 ACP/Auto)"
+    },
+    {
+        "label": ".32 H&R Mag (Harrington & Richardson Magnum)",
+        "seo": "32hr-mag"
+    },
+    {
+        "label": ".32 NAA",
+        "seo": "32naa"
+    },
+    {
+        "seo": "32-short-colt",
+        "label": ".32 Short Colt"
+    },
+    {
+        "seo": "32sw",
+        "label": ".32 S&W"
+    },
+    {
+        "seo": "32sw-long",
+        "label": ".32 S&W Long (Colt New Police)"
+    },
+    {
+        "seo": "357-magnum",
+        "label": ".357 Mag"
+    },
+    {
+        "label": ".327 Federal Mag",
+        "seo": "327-federal-magnum"
+    },
+    {
+        "label": ".357 Rem Max (Super Magnum)",
+        "seo": "357-remington-maximum"
+    },
+    {
+        "seo": "357sig",
+        "label": ".357 SIG"
+    },
+    {
+        "label": ".380 Auto",
+        "seo": "380-auto"
+    },
+    {
+        "seo": "380-long",
+        "label": ".380 Long"
+    },
+    {
+        "label": ".38-40 Win",
+        "seo": "38-40-winchester"
+    },
+    {
+        "seo": "38acp",
+        "label": ".38 Auto"
+    },
+    {
+        "label": ".38 Long Colt",
+        "seo": "38-long-colt"
+    },
+    {
+        "label": ".38 Short Colt",
+        "seo": "38-short-colt"
+    },
+    {
+        "label": ".38 Special",
+        "seo": "38-special"
+    },
+    {
+        "seo": "38-super",
+        "label": ".38 Super Auto"
+    },
+    {
+        "seo": "38sw",
+        "label": ".38 S&W"
+    },
+    {
+        "seo": "400-corbon",
+        "label": ".400 Cor-Bon"
+    },
+    {
+        "seo": "40sw",
+        "label": ".40 S&W"
+    },
+    {
+        "seo": "40-super",
+        "label": ".40 Super"
+    },
+    {
+        "seo": "41-long-colt",
+        "label": ".41 Long Colt"
+    },
+    {
+        "seo": "41-remington-magnum",
+        "label": ".41 Rem Mag"
+    },
+    {
+        "label": ".44 AMP (Auto Mag Pistol)",
+        "seo": "44amp"
+    },
+    {
+        "seo": "44-colt",
+        "label": ".44 Colt"
+    },
+    {
+        "label": ".44 Mag",
+        "seo": "44-magnum"
+    },
+    {
+        "seo": "44sw-russian",
+        "label": ".44 S&W Russian"
+    },
+    {
+        "seo": "44-special",
+        "label": ".44 S&W Special"
+    },
+    {
+        "label": ".440 Cor-Bon",
+        "seo": "440-corbon"
+    },
+    {
+        "label": ".450 Short (.450 Adams, .450 Boxer Mk I, .450 Revolver, .450 Colt, .450 Corto, .450 Mark III)",
+        "seo": "450-short"
+    },
+    {
+        "seo": "450-short",
+        "label": ".450 Adams (.450 Short, .450 Boxer Mk I, .450 Revolver, .450 Colt, .450 Corto, .450 Mark III)"
+    },
+    {
+        "seo": "450-short",
+        "label": ".450 Boxer Mk I (.450 Short, .450 Adams, .450 Revolver, .450 Colt, .450 Corto, .450 Mark III)"
+    },
+    {
+        "seo": "450-short",
+        "label": ".450 Revolver (.450 Short, .450 Adams, .450 Boxer Mk I, .450 Colt, .450 Corto, .450 Mark III)"
+    },
+    {
+        "seo": "450-short",
+        "label": ".450 Colt (.450 Short, .450 Adams, .450 Boxer Mk I, .450 Revolver, .450 Corto, .450 Mark III)"
+    },
+    {
+        "seo": "450-short",
+        "label": ".450 Corto (.450 Short, .450 Adams, .450 Boxer Mk I, .450 Revolver, .450 Colt, .450 Mark III)"
+    },
+    {
+        "label": ".450 Mark III (.450 Short, .450 Adams, .450 Boxer Mk I, .450 Revolver, .450 Colt, .450 Corto)",
+        "seo": "450-short"
+    },
+    {
+        "seo": "454-casull",
+        "label": ".454 Casull"
+    },
+    {
+        "seo": "455-webley",
+        "label": ".455 Webley"
+    },
+    {
+        "label": ".45 ACP/Auto",
+        "seo": "45acp"
+    },
+    {
+        "seo": "45-auto-rim",
+        "label": ".45 Auto Rim"
+    },
+    {
+        "seo": "45-colt",
+        "label": ".45 Colt (.45 Long Colt)"
+    },
+    {
+        "label": ".45 Long Colt (.45 Colt)",
+        "seo": "45-colt"
+    },
+    {
+        "label": ".45 GAP",
+        "seo": "45gap"
+    },
+    {
+        "seo": "45-schofield",
+        "label": ".45 Schofield"
+    },
+    {
+        "seo": "45-super",
+        "label": ".45 Super"
+    },
+    {
+        "seo": "45-winchester-magnum",
+        "label": ".45 Win Mag"
+    },
+    {
+        "seo": "460-rowland",
+        "label": ".460 Rowland"
+    },
+    {
+        "label": ".460 S&W Mag",
+        "seo": "460sw-magnum"
+    },
+    {
+        "label": "4.6x30mm",
+        "seo": "4.6x30mm"
+    },
+    {
+        "seo": "475-linebaugh",
+        "label": ".475 Linebaugh"
+    },
+    {
+        "seo": "480-ruger",
+        "label": ".480 Ruger"
+    },
+    {
+        "label": ".500 Linebaugh",
+        "seo": "500-linebaugh"
+    },
+    {
+        "seo": "500sw-magnum",
+        "label": ".500 S&W Mag"
+    },
+    {
+        "label": ".500 S&W Special",
+        "seo": "500sw-special"
+    },
+    {
+        "label": ".50 Action Express",
+        "seo": "50-action-express"
+    },
+    {
+        "label": ".50 Beowulf (12.7x42mm)",
+        "seo": "50-beowulf"
+    },
+    {
+        "label": ".50 GI",
+        "seo": "50gi"
+    },
+    {
+        "label": "5.7x28mm",
+        "seo": "5.7x28mm"
+    },
+    {
+        "seo": "5.75mm-velo-dog",
+        "label": "5.75mm Velo-Dog"
+    },
+    {
+        "label": "7.5mm Swiss Ordnance",
+        "seo": "7.5mm-swiss-ordnance"
+    },
+    {
+        "label": "7.62x25mm Tokarev",
+        "seo": "7.62x25mm-tokarev"
+    },
+    {
+        "label": "7.62x38R Nagant (Revolver)",
+        "seo": "7.62x38-nagant-revolver"
+    },
+    {
+        "seo": "7.63x25mm-mauser",
+        "label": "7.63x25mm Mauser (.30 Mauser Automatic)"
+    },
+    {
+        "seo": "7.63x25mm-mauser",
+        "label": ".30 Mauser Automatic (7.63x25mm Mauser)"
+    },
+    {
+        "label": "8mm Gasser",
+        "seo": "8mm-gasser"
+    },
+    {
+        "label": "8x22mm Nambu",
+        "seo": "8mm-nambu"
+    },
+    {
+        "label": "8mm Roth Steyr",
+        "seo": "8mm-roth-steyr"
+    },
+    {
+        "label": "9x21mm",
+        "seo": "9x21mm"
+    },
+    {
+        "seo": "9x23mm-largo",
+        "label": "9x23mm Largo"
+    },
+    {
+        "seo": "9x23mm-steyr",
+        "label": "9x23mm Steyr"
+    },
+    {
+        "label": "9x23mm Win",
+        "seo": "9x23mm-winchester"
+    },
+    {
+        "seo": "9x25mm-dillon",
+        "label": "9x25mm Dillon"
+    },
+    {
+        "label": "9mm Luger (9x19 Parabellum)",
+        "seo": "9mm-luger"
+    },
+    {
+        "label": "9x19 Parabellum (9mm Luger)",
+        "seo": "9mm-luger"
+    },
+    {
+        "seo": "9mm-makarov",
+        "label": "9mm Makarov (9x18 Makarov)"
+    },
+    {
+        "label": "9x18mm Ultra (9mm Police)",
+        "seo": "9mm-ultra"
+    },
+    {
+        "label": "9mm Police (9x18mm Ultra)",
+        "seo": "9mm-ultra"
+    },
+    {
+        "label": ".17 HM2 (Hornady Mach 2)",
+        "seo": "17hm2"
+    },
+    {
+        "seo": "17hmr",
+        "label": ".17 HMR (Hornady Magnum Rimfire)"
+    },
+    {
+        "seo": "17pmc-aquila",
+        "label": ".17 PMC/Aguila"
+    },
+    {
+        "seo": "22-long",
+        "label": ".22 Long"
+    },
+    {
+        "label": ".22LR",
+        "seo": "22lr"
+    },
+    {
+        "seo": "22cb",
+        "label": ".22 CB"
+    },
+    {
+        "label": ".22 Short",
+        "seo": "22-short"
+    },
+    {
+        "seo": "22-magnum",
+        "label": ".22 Mag (.22 WMR)"
+    },
+    {
+        "label": ".22 WMR (.22 Magnum)",
+        "seo": "22-magnum"
+    },
+    {
+        "seo": "22wrf",
+        "label": ".22 Win Rimfire"
+    },
+    {
+        "label": ".32 Rimfire Long",
+        "seo": "32-long"
+    },
+    {
+        "label": "5mm Rem Rimfire Mag",
+        "seo": "5mm-remington-magnum"
+    },
+    {
+        "label": "9mm Flobert",
+        "seo": "9mm-flobert"
+    },
+    {
+        "seo": "17-remington",
+        "label": ".17 Rem"
+    },
+    {
+        "label": ".17 Rem Fireball",
+        "seo": "17-remington-fireball"
+    },
+    {
+        "seo": "204-ruger",
+        "label": ".204 Ruger"
+    },
+    {
+        "label": ".218 Bee",
+        "seo": "218-bee"
+    },
+    {
+        "seo": "220-swift",
+        "label": ".220 Swift"
+    },
+    {
+        "label": ".221 Fireball",
+        "seo": "221-fireball"
+    },
+    {
+        "label": ".22 Spitfire (5.7mm Johnson)",
+        "seo": "22-spitfire"
+    },
+    {
+        "seo": "22-spitfire",
+        "label": "5.7mm Johnson (.22 Spitfire)"
+    },
+    {
+        "seo": "22-250",
+        "label": ".22-250"
+    },
+    {
+        "seo": "222-remington",
+        "label": ".222 Rem (5.7x43mm)"
+    },
+    {
+        "label": "5.7x43mm (.222 Remington)",
+        "seo": "222-remington"
+    },
+    {
+        "label": ".222 Rem Mag",
+        "seo": "222-remington-magnum"
+    },
+    {
+        "label": ".223 WSSM (Winchester Super Short Mag)",
+        "seo": "223wssm"
+    },
+    {
+        "label": ".224 Weatherby Mag",
+        "seo": "224-weatherby-magnum"
+    },
+    {
+        "seo": "225-winchester",
+        "label": ".225 Win"
+    },
+    {
+        "seo": "22-hornet",
+        "label": ".22 Hornet"
+    },
+    {
+        "label": ".240 Weatherby Mag",
+        "seo": "240-weatherby-magnum"
+    },
+    {
+        "label": ".243 Win",
+        "seo": "243-winchester"
+    },
+    {
+        "label": ".243 WSSM (Winchester Super Short Mag)",
+        "seo": "243wssm"
+    },
+    {
+        "label": ".25-06 Rem",
+        "seo": "25-06-remington"
+    },
+    {
+        "seo": "250-savage",
+        "label": ".250-3000 Savage"
+    },
+    {
+        "seo": "25-20-winchester",
+        "label": ".25-20 Win"
+    },
+    {
+        "seo": "25-35-winchester",
+        "label": ".25-35 Win"
+    },
+    {
+        "seo": "257-roberts",
+        "label": ".257 Roberts"
+    },
+    {
+        "label": ".257 Weatherby Mag",
+        "seo": "257-weatherby-magnum"
+    },
+    {
+        "seo": "25wssm",
+        "label": ".25 WSSM (Winchester Super Short Mag)"
+    },
+    {
+        "seo": "260-remington",
+        "label": ".260 Rem"
+    },
+    {
+        "label": ".264 Win Mag",
+        "seo": "264-winchester-magnum"
+    },
+    {
+        "seo": "270-weatherby-magnum",
+        "label": ".270 Weatherby Mag"
+    },
+    {
+        "seo": "270-winchester",
+        "label": ".270 Win"
+    },
+    {
+        "label": ".270 WSM (Winchester Short Magnum)",
+        "seo": "270wsm"
+    },
+    {
+        "label": ".280 Rem Ackley Imp. (Remington Ackley Improved)",
+        "seo": "280-remington-ackley-improved"
+    },
+    {
+        "seo": "280-remington",
+        "label": ".280 Rem (7mm-06 Rem, 7mm Express Rem)"
+    },
+    {
+        "label": ".284 Win",
+        "seo": "284-winchester"
+    },
+    {
+        "seo": "30-06",
+        "label": ".30-06"
+    },
+    {
+        "seo": "300hh",
+        "label": ".300 H&H (Holland & Holland)"
+    },
+    {
+        "label": ".300 Pegasus",
+        "seo": "300-pegasus"
+    },
+    {
+        "seo": "300rcm",
+        "label": ".300 RCM (Ruger Compact Magnum)"
+    },
+    {
+        "seo": "300rum",
+        "label": ".300 RUM (Remington Ultra Magnum)"
+    },
+    {
+        "label": ".300 Rem SAUM (Short Action Ultra Magnum)",
+        "seo": "300saum"
+    },
+    {
+        "label": ".300 Savage",
+        "seo": "300-savage"
+    },
+    {
+        "label": ".300 Weatherby Mag",
+        "seo": "300-weatherby-magnum"
+    },
+    {
+        "label": ".300 Whisper (.300 Warrior Carbine, .300 Fireball, .300 .300-221)",
+        "seo": "300-whisper"
+    },
+    {
+        "seo": "300-whisper",
+        "label": ".300 Warrior Carbine (.300 Whisper, .300 Fireball, .300 .300-221)"
+    },
+    {
+        "label": ".300 Fireball (.300 Whisper, .300 Warrior Carbine, .300 .300-221)",
+        "seo": "300-whisper"
+    },
+    {
+        "seo": "300-whisper",
+        "label": ".300-221 (.300 Whisper, .300 Warrior Carbine, .300 Fireball)"
+    },
+    {
+        "label": ".300 Win Mag",
+        "seo": "300-winchester-magnum"
+    },
+    {
+        "seo": "300wsm",
+        "label": ".300 WSM (Winchester Short Magnum)"
+    },
+    {
+        "label": ".30-30 Win",
+        "seo": "30-30-winchester"
+    },
+    {
+        "seo": "30-378-weatherby-magnum",
+        "label": ".30-378 Weatherby Mag"
+    },
+    {
+        "label": ".303 British",
+        "seo": "303-british"
+    },
+    {
+        "seo": "303-savage",
+        "label": ".303 Savage"
+    },
+    {
+        "seo": "30-40-krag",
+        "label": ".30-40 Krag (.30 Army)"
+    },
+    {
+        "label": ".30 Army (.30-40 Krag)",
+        "seo": "30-40-krag"
+    },
+    {
+        "label": ".307 Win",
+        "seo": "307-winchester"
+    },
+    {
+        "seo": "308-winchester",
+        "label": ".308/7.62x51mm (.308 Winchester)"
+    },
+    {
+        "label": ".308 Win (.308/7.62x51mm)",
+        "seo": "308-winchester"
+    },
+    {
+        "label": ".308 Marlin Express",
+        "seo": "308-marlin-express"
+    },
+    {
+        "label": ".308 Norma Mag",
+        "seo": "308-norma-magnum"
+    },
+    {
+        "label": ".30 Carbine",
+        "seo": "30-carbine"
+    },
+    {
+        "label": ".30 Rem AR",
+        "seo": "30-remington-ar"
+    },
+    {
+        "seo": "30tc",
+        "label": ".30 TC (Thompson Center)"
+    },
+    {
+        "label": ".318 Westley Richards",
+        "seo": "318-westley-richards"
+    },
+    {
+        "label": ".32-20 Win (.32 WCF, .32-20 Marlin, .32 Colt Lightning)",
+        "seo": "32-20-winchester"
+    },
+    {
+        "label": ".32 WCF (.32-20 Winchester, .32-20 Marlin, .32 Colt Lightning)",
+        "seo": "32-20-winchester"
+    },
+    {
+        "seo": "32-20-winchester",
+        "label": ".32-20 Marlin (.32-20 Winchester, .32 WCF, .32 Colt Lightning)"
+    },
+    {
+        "seo": "32-20-winchester",
+        "label": ".32 Colt Lightning (.32-20 Winchester, .32 WCF, .32-20 Marlin)"
+    },
+    {
+        "seo": "32-40-winchester",
+        "label": ".32-40 Win (.32-40 Ballard)"
+    },
+    {
+        "label": ".32-40 Ballard (.32-40 Winchester)",
+        "seo": "32-40-winchester"
+    },
+    {
+        "seo": "325wsm",
+        "label": ".325 WSM (Winchester Short Magnum)"
+    },
+    {
+        "label": ".32 Win Special",
+        "seo": "32-winchester-special"
+    },
+    {
+        "seo": "333-jeffery",
+        "label": ".333 Jeffery (Rimless or Flanged)"
+    },
+    {
+        "seo": "338-06",
+        "label": ".338-06"
+    },
+    {
+        "seo": "338-378-weatherby-magnum",
+        "label": ".338-378 Weatherby Mag"
+    },
+    {
+        "label": ".338 Excalibur",
+        "seo": "338-excalibur"
+    },
+    {
+        "label": ".338 Federal",
+        "seo": "338-federal"
+    },
+    {
+        "label": ".338 Lapua Mag",
+        "seo": "338-lapua-magnum"
+    },
+    {
+        "label": ".338 Marlin Express",
+        "seo": "338-marlin-express"
+    },
+    {
+        "label": ".338 Norma Mag",
+        "seo": "338-norma-magnum"
+    },
+    {
+        "label": ".338 RUM (Remington Ultra Magnum)",
+        "seo": "338rum"
+    },
+    {
+        "seo": "338rcm",
+        "label": ".338 RCM (Ruger Compact Magnum)"
+    },
+    {
+        "seo": "338-winchester-magnum",
+        "label": ".338 Win Mag"
+    },
+    {
+        "label": ".340 Weatherby Mag",
+        "seo": "340-weatherby-magnum"
+    },
+    {
+        "label": ".348 Win",
+        "seo": "348-winchester"
+    },
+    {
+        "seo": "350-remington-magnum",
+        "label": ".350 Rem Mag"
+    },
+    {
+        "seo": "356-winchester",
+        "label": ".356 Win"
+    },
+    {
+        "seo": "358-norma-magnum",
+        "label": ".358 Norma Mag"
+    },
+    {
+        "seo": "358st-alaskan",
+        "label": ".358 ST Alaskan (Shooting Times Alaskan)"
+    },
+    {
+        "label": ".358 Win",
+        "seo": "358-winchester"
+    },
+    {
+        "label": ".35 Rem",
+        "seo": "35-remington"
+    },
+    {
+        "seo": "35-whelen",
+        "label": ".35 Whelen"
+    },
+    {
+        "seo": "35-winchester",
+        "label": ".35 Win"
+    },
+    {
+        "label": ".370 Sako Mag",
+        "seo": "370-sako-magnum"
+    },
+    {
+        "seo": "375hh-magnum",
+        "label": ".375 H&H Mag (Holland & Holland Mangum)"
+    },
+    {
+        "label": ".375 Flanged Nitro (Flanged Magnum Nitro Express)",
+        "seo": "375-flanged-nitro-express"
+    },
+    {
+        "seo": "375rum",
+        "label": ".375 RUM (Remington Ultra Magnum)"
+    },
+    {
+        "seo": "375-ruger",
+        "label": ".375 Ruger"
+    },
+    {
+        "seo": "375-weatherby-magnum",
+        "label": ".375 Weatherby Mag"
+    },
+    {
+        "seo": "375-winchester",
+        "label": ".375 Win"
+    },
+    {
+        "seo": "376-steyr",
+        "label": ".376 Steyr"
+    },
+    {
+        "label": ".378 Weatherby Mag",
+        "seo": "378-weatherby-magnum"
+    },
+    {
+        "label": ".38-55 Win",
+        "seo": "38-55-winchester"
+    },
+    {
+        "label": ".38-56",
+        "seo": "38-56"
+    },
+    {
+        "label": ".40-60",
+        "seo": "40-60"
+    },
+    {
+        "label": ".40-65 Win",
+        "seo": "40-65-winchester"
+    },
+    {
+        "label": ".400 A-Square (.400 Pondoro)",
+        "seo": "400-a-square"
+    },
+    {
+        "seo": "400-a-square",
+        "label": ".400 Pondoro (.400 A-Square)"
+    },
+    {
+        "seo": "404-jeffery",
+        "label": ".404 Jeffery (10.75 x 73)"
+    },
+    {
+        "label": "10.75 x 73mm (.404 Jeffery)",
+        "seo": "404-jeffery"
+    },
+    {
+        "label": ".405 Win",
+        "seo": "405-winchester"
+    },
+    {
+        "seo": "416-remington-magnum",
+        "label": ".416 Rem Mag"
+    },
+    {
+        "seo": "416-rigby",
+        "label": ".416 Rigby"
+    },
+    {
+        "label": ".416 Ruger",
+        "seo": "416-ruger"
+    },
+    {
+        "label": ".416 Taylor",
+        "seo": "416-taylor"
+    },
+    {
+        "label": ".416 Weatherby Mag",
+        "seo": "416-weatherby-magnum"
+    },
+    {
+        "label": ".425 Westley Richards",
+        "seo": "425-westley-richards"
+    },
+    {
+        "seo": "44-40-winchester",
+        "label": ".44-40 Win"
+    },
+    {
+        "seo": "444-marlin",
+        "label": ".444 Marlin"
+    },
+    {
+        "seo": "450-ackley-magnum",
+        "label": ".450 Ackley Mag"
+    },
+    {
+        "label": ".450 Assegai",
+        "seo": "450-assegai"
+    },
+    {
+        "seo": "450-bushmaster",
+        "label": ".450 Bushmaster"
+    },
+    {
+        "label": ".450 Marlin",
+        "seo": "450-marlin"
+    },
+    {
+        "seo": "450-nitro-express",
+        "label": ".450 Nitro (Nitro Express)"
+    },
+    {
+        "label": ".450 Rigby",
+        "seo": "450-rigby"
+    },
+    {
+        "seo": "45-70",
+        "label": ".45-70"
+    },
+    {
+        "seo": "45-75",
+        "label": ".45-75"
+    },
+    {
+        "seo": "45-90",
+        "label": ".45-90"
+    },
+    {
+        "label": ".458 Lott",
+        "seo": "458-lott"
+    },
+    {
+        "seo": "458-socom",
+        "label": ".458 SOCOM"
+    },
+    {
+        "seo": "458-winchester-magnum",
+        "label": ".458 Win Mag"
+    },
+    {
+        "label": ".460 Weatherby Mag",
+        "seo": "460-weatherby-magnum"
+    },
+    {
+        "seo": "460-short",
+        "label": ".460 Short A-Square"
+    },
+    {
+        "label": ".470 Capstick",
+        "seo": "470-capstick"
+    },
+    {
+        "label": ".470 Nitro Express",
+        "seo": "470-nitro-express"
+    },
+    {
+        "label": ".475 Turnbull",
+        "seo": "475-turnbull"
+    },
+    {
+        "seo": "500-a-square",
+        "label": ".500 A-Square"
+    },
+    {
+        "label": ".500 Jeffery",
+        "seo": "500-jeffery"
+    },
+    {
+        "label": ".500 Nitro Express",
+        "seo": "500-nitro-express"
+    },
+    {
+        "seo": "505-gibbs",
+        "label": ".505 Gibbs"
+    },
+    {
+        "label": ".50 BMG (.50 Browning Machine Gun, 12.7x99mm NATO)",
+        "seo": "50bmg"
+    },
+    {
+        "label": "12.7x99mm NATO (.50 Browning Machine Gun)",
+        "seo": "50bmg"
+    },
+    {
+        "label": ".50-70",
+        "seo": "50-70"
+    },
+    {
+        "seo": "50-90",
+        "label": ".50-90 "
+    },
+    {
+        "label": ".50-95",
+        "seo": "50-95"
+    },
+    {
+        "label": ".50-110",
+        "seo": "50-110"
+    },
+    {
+        "seo": "5.45x39mm",
+        "label": "5.45x39mm"
+    },
+    {
+        "seo": "56-50",
+        "label": ".56-50"
+    },
+    {
+        "label": "5.6 x 52R (.22 Savage Hi-Power)",
+        "seo": "5.6x52r"
+    },
+    {
+        "label": ".22 Savage Hi-Power (5.6 x 52R)",
+        "seo": "5.6x52r"
+    },
+    {
+        "seo": "577-450-martini-henry",
+        "label": ".577-450 Martini-Henry"
+    },
+    {
+        "label": "6.5mm Creedmoor",
+        "seo": "6.5mm-creedmoor"
+    },
+    {
+        "label": "6.5mm Grendel",
+        "seo": "6.5mm-grendel"
+    },
+    {
+        "seo": "6.5x47mm-lapua",
+        "label": "6.5x47mm Lapua"
+    },
+    {
+        "label": "6.5x50mm Japanese (6.5x50 Arisaka)",
+        "seo": "6.5x50mm-japanese"
+    },
+    {
+        "seo": "6.5x52mm-carcano",
+        "label": "6.5x52mm Carcano (6.5x52mm Mannlicher-Carcano)"
+    },
+    {
+        "seo": "6.5x54mm-schonauer",
+        "label": "6.5x54mm Schonauer (Mannlicher-Schonauer)"
+    },
+    {
+        "label": "6.5x55mm",
+        "seo": "6.5x55mm"
+    },
+    {
+        "seo": "6.5x57mm",
+        "label": "6.5x57mm"
+    },
+    {
+        "label": "6.5mm Rem Mag (.264 Durham Magnum)",
+        "seo": "6.5mm-remington-magnum"
+    },
+    {
+        "seo": "6.8mm-remington",
+        "label": "6.8mm Rem SPC"
+    },
+    {
+        "label": "6x70R",
+        "seo": "6x70r"
+    },
+    {
+        "label": "6x45mm (6mm-223)",
+        "seo": "6x45mm"
+    },
+    {
+        "label": "6mm-223 (6x45mm)",
+        "seo": "6x45mm"
+    },
+    {
+        "seo": "6mm-benchrest",
+        "label": "6mm Benchrest WSM"
+    },
+    {
+        "seo": "6mm-norma",
+        "label": "6mm Norma BR"
+    },
+    {
+        "label": "6mm Rem",
+        "seo": "6mm-remington"
+    },
+    {
+        "label": "6mm XC",
+        "seo": "6mm-xc"
+    },
+    {
+        "seo": "7-30-waters",
+        "label": "7-30 Waters"
+    },
+    {
+        "label": "7.35x51mm Carcano ",
+        "seo": "7.35x51mm-carcano"
+    },
+    {
+        "seo": "7.5x54mm-french",
+        "label": "7.5x54mm French"
+    },
+    {
+        "seo": "7.5x55mm-swiss",
+        "label": "7.5x55mm Swiss"
+    },
+    {
+        "label": "7.62x39mm",
+        "seo": "7.62x39mm"
+    },
+    {
+        "label": "7.62x54R",
+        "seo": "7.62x54r"
+    },
+    {
+        "label": "7x64mm",
+        "seo": "7x64mm"
+    },
+    {
+        "label": "7.65x53mm Argentine (7.65x53mm Mauser)",
+        "seo": "7.65x53mm-mauser"
+    },
+    {
+        "label": "7.65x53mm Mauser (7.65x53mm Argentine)",
+        "seo": "7.65x53mm-mauser"
+    },
+    {
+        "label": "7x65R",
+        "seo": "7x65r"
+    },
+    {
+        "seo": "7x57r",
+        "label": "7mm x 57 Rimmed"
+    },
+    {
+        "label": "7.7x58mm (7.7 Japanese)",
+        "seo": "7.7x58mm"
+    },
+    {
+        "label": "7.7 Japanese (7.7x58mm)",
+        "seo": "7.7x58mm"
+    },
+    {
+        "label": "7mm-08 Rem",
+        "seo": "7mm-08-remington"
+    },
+    {
+        "seo": "7mm-mauser",
+        "label": "7mm Mauser (7x57 Mauser, .275 Rigby)"
+    },
+    {
+        "label": "7x57 Mauser (7mm Mauser, .275 Rigby)",
+        "seo": "7mm-mauser"
+    },
+    {
+        "label": ".275 Rigby (7x57 Mauser, 7mm Mauser)",
+        "seo": "7mm-mauser"
+    },
+    {
+        "label": "7mm Rem Mag",
+        "seo": "7mm-remington-magnum"
+    },
+    {
+        "label": "7mm RUM (Remington Ultra Magnum)",
+        "seo": "7mm-rum"
+    },
+    {
+        "seo": "7mm-saum",
+        "label": "7mm Rem SAUM (Short Action Ultra Magnum)"
+    },
+    {
+        "seo": "7mm-stw",
+        "label": "7mm STW (Shooting Times Westerner)"
+    },
+    {
+        "seo": "7mm-weatherby-magnum",
+        "label": "7mm Weatherby Mag"
+    },
+    {
+        "seo": "7mm-wsm",
+        "label": "7mm WSM (Winchester Short Magnum)"
+    },
+    {
+        "label": "7.92x33mm Kurz (8mm Kurz)",
+        "seo": "8mm-kurz"
+    },
+    {
+        "seo": "8mm-kurz",
+        "label": "8mm Kurz (7.92x33mm)"
+    },
+    {
+        "seo": "8mm-breda",
+        "label": "8mm Breda"
+    },
+    {
+        "label": "8x50R Lebel (8mm Lebel)",
+        "seo": "8mm-lebel"
+    },
+    {
+        "seo": "8mm-lebel",
+        "label": "8mm Lebel (8x50R Lebel)"
+    },
+    {
+        "seo": "8x56mm",
+        "label": "8x56mmR"
+    },
+    {
+        "seo": "8mm-mauser",
+        "label": "7.92x57mm Mauser (8mm Mauser, 8x57 IS/JS)"
+    },
+    {
+        "label": "8mm Mauser (7.92x57mm, 8x57 IS/JS)",
+        "seo": "8mm-mauser"
+    },
+    {
+        "label": "8x57 IS/JS (8mm Mauser, 7.92x57mm Mauser)",
+        "seo": "8mm-mauser"
+    },
+    {
+        "seo": "8mm-remington-magnum",
+        "label": "8mm Rem Mag"
+    },
+    {
+        "seo": "8x68mm",
+        "label": "8x68mm S"
+    },
+    {
+        "seo": "9.3x57mm",
+        "label": "9.3x57mm"
+    },
+    {
+        "label": "9.3x62mm",
+        "seo": "9.3x62mm"
+    },
+    {
+        "seo": "9.3x72mm",
+        "label": "9.3x72mm"
+    },
+    {
+        "seo": "9.3x74r",
+        "label": "9.3x74R"
+    },
+    {
+        "label": "10 Gauge",
+        "seo": "10-gauge"
+    },
+    {
+        "seo": "12-gauge",
+        "label": "12 Gauge"
+    },
+    {
+        "label": "16 Gauge",
+        "seo": "16-gauge"
+    },
+    {
+        "seo": "20-gauge",
+        "label": "20 Gauge"
+    },
+    {
+        "label": "24 Gauge",
+        "seo": "24-gauge"
+    },
+    {
+        "label": "28 Gauge",
+        "seo": "28-gauge"
+    },
+    {
+        "label": "32 Gauge",
+        "seo": "32-gauge"
+    },
+    {
+        "seo": "410-bore",
+        "label": ".410 Bore"
+    },
+    {
+        "label": ".375 JDJ (J. D. Jones)",
+        "seo": "375jdj"
+    },
+    {
+        "label": ".450 AutoBond",
+        "seo": "450-autobond"
+    },
+    {
+        "label": ".22 BB (6MM Flobert)",
+        "seo": "22bb"
+    },
+    {
+        "seo": "22-winchester-auto",
+        "label": ".22 Win Auto"
+    },
+    {
+        "seo": "22ppc",
+        "label": ".22 PPC"
+    },
+    {
+        "label": ".30 Remington",
+        "seo": "30-remington"
+    },
+    {
+        "label": ".577 Snider",
+        "seo": "577-snider"
+    },
+    {
+        "label": "5.6x50mm Rimmed",
+        "seo": "5.6x50r"
+    },
+    {
+        "seo": "500-wyoming-express",
+        "label": ".500 Wyoming Express"
+    },
+    {
+        "seo": "45-120",
+        "label": ".45-120"
+    },
+    {
+        "seo": "45-110",
+        "label": ".45-110"
+    },
+    {
+        "label": ".40-82 Win",
+        "seo": "40-82-winchester"
+    },
+    {
+        "label": ".45-60",
+        "seo": "45-60"
+    },
+    {
+        "label": "6.5x53mm Mannlicher",
+        "seo": "6.5x52mm-mannlicher"
+    },
+    {
+        "seo": "300aac-blackout",
+        "label": ".300 AAC Blackout (7.62x35mm)"
+    },
+    {
+        "label": "6.5-284 Norma",
+        "seo": "6.5-284"
+    },
+    {
+        "label": ".20 Tactical",
+        "seo": "20-tactical"
+    },
+    {
+        "seo": "20-vartarg",
+        "label": ".20 VarTarg"
+    },
+    {
+        "seo": "9.3x64mm-brenneke",
+        "label": "9.3x64mm Brenneke"
+    },
+    {
+        "label": ".416 Barrett",
+        "seo": "416-barrett"
+    },
+    {
+        "label": ".17 Hornet",
+        "seo": "17-hornet"
+    },
+    {
+        "seo": "475-wildey-magnum",
+        "label": ".475 Wildey Magnum"
+    },
+    {
+        "label": ".510 Whisper",
+        "seo": "510-whisper"
+    },
+    {
+        "seo": "375-whisper",
+        "label": ".375 Whisper"
+    },
+    {
+        "seo": "338-whisper",
+        "label": ".338 Whisper"
+    },
+    {
+        "seo": "22tcm",
+        "label": ".22 TCM (Tuason-Craig MicroMagnum)"
+    },
+    {
+        "seo": "6.5-06",
+        "label": "6.5-06"
+    },
+    {
+        "seo": "9x25-mauser",
+        "label": "9x25mm Mauser"
+    },
+    {
+        "label": ".17 WSM (Winchester Super Magnum)",
+        "seo": "17wsm"
+    },
+    {
+        "seo": "450-400-nitro-express",
+        "label": ".450-400 Nitro (Nitro Express)"
+    },
+    {
+        "label": ".445 SuperMag",
+        "seo": "445-super-magnum"
+    },
+    {
+        "seo": "220-russian",
+        "label": ".220 Russian (5.6x39mm)"
+    },
+    {
+        "seo": "220-russian",
+        "label": "5.6x39mm (.220 Russian)"
+    },
+    {
+        "label": ".223 Remington",
+        "seo": "223-remington"
+    },
+    {
+        "seo": "5.56x45mm-nato",
+        "label": "5.56x45mm NATO"
+    },
+    {
+        "seo": "7.62x45mm",
+        "label": "7.62x45mm"
+    },
+    {
+        "seo": "7mm-br",
+        "label": "7mm BR"
+    },
+    {
+        "seo": "351-winchester-self-loading",
+        "label": ".351 WSL (Winchester Self-Loading)"
+    },
+    {
+        "seo": "7.62x53r",
+        "label": "7.62x53R"
+    },
+    {
+        "label": ".356 TSW",
+        "seo": "356-tsw"
+    },
+    {
+        "seo": "50-alaskan",
+        "label": ".50 Alaskan"
+    },
+    {
+        "seo": "22jet",
+        "label": ".22 Jet (.22 Center Fire Magnum)"
+    },
+    {
+        "label": ".22 Center Fire Magnum (.22 Jet)",
+        "seo": "22jet"
+    },
+    {
+        "label": ".577 Nitro Express",
+        "seo": "577-nitro-express"
+    },
+    {
+        "label": ".26 Nosler",
+        "seo": "26nosler"
+    },
+    {
+        "label": ".408 CheyTac (Cheyenne Tactical)",
+        "seo": "408-cheytac"
+    },
+    {
+        "label": ".219 Zipper",
+        "seo": "219-zipper"
+    },
+    {
+        "seo": "8x60mm",
+        "label": "8x60mm S"
+    },
+    {
+        "seo": "338spectre",
+        "label": ".338 Spectre"
+    },
+    {
+        "label": ".375 CheyTac (Cheyenne Tactical)",
+        "seo": "375-cheytac"
+    },
+    {
+        "label": ".41 Short Rimfire",
+        "seo": "41-short"
+    },
+    {
+        "label": "7.65x20mm Longue",
+        "seo": "7.65x20"
+    },
+    {
+        "label": ".320 Short",
+        "seo": "320-short"
+    },
+    {
+        "label": ".320 Long",
+        "seo": "320-long"
+    },
+    {
+        "seo": "33-wcf",
+        "label": ".33 WCF (Winchester Center Fire)"
+    },
+    {
+        "label": ".28 Nosler",
+        "seo": "28nosler"
+    },
+    {
+        "seo": "6mm-super-lr",
+        "label": "6mm Super LR"
+    },
+    {
+        "label": ".32 Long Colt",
+        "seo": "32-long-colt"
+    },
+    {
+        "label": ".357 Super Magnum (Rem Max)",
+        "seo": "357-remington-maximum"
+    },
+    {
+        "seo": "457-wwg",
+        "label": ".457 WWG (Wild West Magnum)"
+    },
+    {
+        "label": ".457 Wild West Magnum (WWG)",
+        "seo": "457-wwg"
+    },
+    {
+        "label": ".25-45 Sharps",
+        "seo": "25-45-sharps"
+    },
+    {
+        "seo": "256-winchester-magnum",
+        "label": ".256 Win Mag"
+    },
+    {
+        "label": ".43 Spanish",
+        "seo": "43-spanish"
+    },
+    {
+        "label": "8x57 IRS/JRS",
+        "seo": "8x57mm-jrs"
+    },
+    {
+        "label": ".264 Durham Magnum (6.5mm Rem Mag)",
+        "seo": "6.5mm-remington-magnum"
+    },
+    {
+        "label": "7x61 Sharpe & Hart Mag (7x61 Super)",
+        "seo": "7x61-sharpe"
+    },
+    {
+        "seo": "7x61-sharpe",
+        "label": "7x61 Super (7x61 Sharpe & Hart Mag)"
+    },
+    {
+        "seo": "45-100-sharps",
+        "label": ".45-100 Sharps"
+    },
+    {
+        "label": ".45 Special",
+        "seo": "45-special"
+    },
+    {
+        "seo": "30nosler",
+        "label": ".30 Nosler"
+    },
+    {
+        "label": ".300 Norma Mag",
+        "seo": "300-norma-magnum"
+    },
+    {
+        "seo": "38-super-comp",
+        "label": ".38 Super Comp"
+    },
+    {
+        "label": ".45 Raptor",
+        "seo": "45-raptor"
+    },
+    {
+        "seo": "45hp",
+        "label": ".45 HP"
+    },
+    {
+        "seo": "25-remington",
+        "label": ".25 Remington"
+    },
+    {
+        "label": ".41 Special",
+        "seo": "41special"
+    },
+    {
+        "seo": "44-77-sharps",
+        "label": ".44-77 Sharps"
+    },
+    {
+        "label": "9mm Browning Long (9x20mm)",
+        "seo": "9mm-browning-long"
+    },
+    {
+        "label": "9x20mm Browning Long",
+        "seo": "9mm-browning-long"
+    },
+    {
+        "seo": "8mm-lebel-revolver",
+        "label": "8mm Lebel Revolver (8mm/92, 8x27R, 8mm French Ordnance)"
+    },
+    {
+        "seo": "32rem",
+        "label": ".32 Remington"
+    },
+    {
+        "label": "6mm Creedmoor",
+        "seo": "6mm-creedmoor"
+    },
+    {
+        "seo": "6.5-300-weatherby-magnum",
+        "label": "6.5-300 Weatherby Magnum"
+    },
+    {
+        "seo": "22-nosler",
+        "label": ".22 Nosler"
+    },
+    {
+        "label": "12.7x42mm (.50 Beowulf)",
+        "seo": "50-beowulf"
+    },
+    {
+        "label": ".22 TCM 9R",
+        "seo": "22tcm9r"
+    },
+    {
+        "label": ".375 SOCOM",
+        "seo": "375socom"
+    },
+    {
+        "seo": "33nosler",
+        "label": ".33 Nosler"
+    },
+    {
+        "seo": "20mm-caliber",
+        "label": "20mm Caliber"
+    },
+    {
+        "seo": "401-winchester-self-loading",
+        "label": ".401 WSL (Winchester Self-Loading)"
+    },
+    {
+        "seo": "35-winchester-self-loading",
+        "label": ".35 WSL (Winchester Self-Loading)"
+    },
+    {
+        "seo": "32-winchester-self-loading",
+        "label": ".32 WSL (Winchester Self-Loading)"
+    },
+    {
+        "seo": "6.5mm-prc",
+        "label": "6.5mm PRC"
+    },
+    {
+        "label": ".224 Valkyrie",
+        "seo": "224-valkyrie"
+    },
+    {
+        "seo": "500-auto-max",
+        "label": ".500 Auto Max"
+    },
+    {
+        "seo": "9-39",
+        "label": "9x39mm"
+    },
+    {
+        "seo": "500-jrh",
+        "label": ".500 JRH"
+    },
+    {
+        "seo": "277-wolverine",
+        "label": ".277 Wolverine (6.8x39mm)"
+    },
+    {
+        "label": "6.8x39mm (.277 Wolverine)",
+        "seo": "277-wolverine"
+    },
+    {
+        "label": ".458 HAM'R",
+        "seo": "458-hamr"
+    },
+    {
+        "label": "12.7x108mm",
+        "seo": "12.7x108"
+    },
+    {
+        "seo": "429-desert-eagle",
+        "label": ".429 Desert Eagle"
+    },
+    {
+        "label": "6.5x50mm Arisaka (6.5x50 Japanese)",
+        "seo": "6.5x50mm-japanese"
+    },
+    {
+        "seo": "300prc",
+        "label": ".300 PRC"
+    },
+    {
+        "seo": "41action-express",
+        "label": ".41 Action Express"
+    },
+    {
+        "seo": "350-legend",
+        "label": ".350 Legend"
+    },
+    {
+        "label": ".22 Creedmoor",
+        "seo": "22-creedmoor"
+    },
+    {
+        "seo": "6.5-saum",
+        "label": "6.5 SAUM 4S"
+    },
+    {
+        "label": "7mm LRM (Long Range Magnum)",
+        "seo": "7mm-lrm"
+    },
+    {
+        "label": "11mm Mauser (11x60mmR Mauser, .43 Mauser)",
+        "seo": "11mm-mauser"
+    },
+    {
+        "label": "11x60mmR Mauser (11mm Mauser, .43 Mauser)",
+        "seo": "11mm-mauser"
+    },
+    {
+        "seo": "11mm-mauser",
+        "label": ".43 Mauser (11mm Mauser, 11x60mmR Mauser)"
+    },
+    {
+        "label": "7.62x51mm NATO",
+        "seo": "308-winchester"
+    },
+    {
+        "label": "9x57mm Mauser",
+        "seo": "9x57mm-mauser"
+    },
+    {
+        "label": ".25-36 Marlin",
+        "seo": "25-36-marlin"
+    },
+    {
+        "label": ".257 STW (Shooting Times Westerner)",
+        "seo": "257-stw"
+    },
+    {
+        "label": ".475 Nitro (Nitro Express)",
+        "seo": "475-nitro-express"
+    },
+    {
+        "label": ".400-360 Thin Rim Purdey",
+        "seo": "400-360-purdey"
+    },
+    {
+        "seo": "400-360-richards",
+        "label": ".400-360 Thin Rim Richards"
+    },
+    {
+        "seo": "400-360-fraser",
+        "label": ".400-360 Thin Rim Fraser"
+    },
+    {
+        "seo": "400-360-evans",
+        "label": ".400-360 Thin Rim Evans"
+    },
+    {
+        "seo": "450-alaskan",
+        "label": "450 Alaskan"
+    },
+    {
+        "seo": "375-dakota",
+        "label": ".375 Dakota"
+    },
+    {
+        "seo": "300-dakota",
+        "label": ".300 Dakota"
+    },
+    {
+        "label": ".300 HAM'R",
+        "seo": "300-hamr"
+    },
+    {
+        "seo": "30-gibbs",
+        "label": ".30 Gibbs"
+    },
+    {
+        "label": ".24 Nosler",
+        "seo": "24-nosler"
+    },
+    {
+        "label": ".338 Blaser Mag",
+        "seo": "338-blaser-magnum"
+    },
+    {
+        "label": ".400 Whelen",
+        "seo": "400-whelen"
+    },
+    {
+        "seo": "6.5x52r",
+        "label": "6.5X52mmR"
+    },
+    {
+        "seo": "7.65x53r",
+        "label": "7.65x53R"
+    },
+    {
+        "seo": "11.15x58r",
+        "label": "11.15x58mmR (11mm Werndl)"
+    },
+    {
+        "label": "11mm Werndl (11.15x58mmR)",
+        "seo": "11.15x58r"
+    },
+    {
+        "seo": "333-jeffery-flanged",
+        "label": ".333 Jeffery Flanged (.333 Jeffery Rimmed, .333 Flanged Nitro Express)"
+    },
+    {
+        "label": ".333 Jeffery Rimmed, (.333 Jeffery Flanged, .333 Flanged Nitro Express)",
+        "seo": "333-jeffery-flanged"
+    },
+    {
+        "label": ".333 Flanged Nitro Express (.333 Jeffery Flanged, .333 Jeffery Rimmed)",
+        "seo": "333-jeffery-flanged"
+    },
+    {
+        "label": "12.7x44mm Rimmed Danish",
+        "seo": "12.7x44r"
+    },
+    {
+        "seo": "32-ideal",
+        "label": ".32 Ideal"
+    },
+    {
+        "label": ".43 Egyptian (11.43x50mmR)",
+        "seo": "43-egyptian"
+    },
+    {
+        "seo": "43-beaumont",
+        "label": ".43 Beaumont"
+    },
+    {
+        "label": ".300 Sherwood (.300 Westley, .300 Extra Long)",
+        "seo": "300-sherwood"
+    },
+    {
+        "seo": "300-sherwood",
+        "label": ".300 Westley (.300 Sherwood, .300 Extra Long)"
+    },
+    {
+        "label": ".300 Extra Long (.300 Sherwood, .300 Westley)",
+        "seo": "300-sherwood"
+    },
+    {
+        "label": "11.2x72mm Schuler",
+        "seo": "11.2x72mm"
+    },
+    {
+        "seo": "10.15x61r",
+        "label": "10.15x61mmR"
+    },
+    {
+        "seo": "43-egyptian",
+        "label": "11.43x50mmR (.43 Egyptian)"
+    },
+    {
+        "label": ".40-90 Sharps",
+        "seo": "40-90-sharps"
+    },
+    {
+        "seo": "40-70-sharps",
+        "label": ".40-70 Sharps"
+    },
+    {
+        "label": "9.5x47mmR",
+        "seo": "9.5x47r"
+    },
+    {
+        "label": ".222 Rimmed",
+        "seo": "222-rimmed"
+    },
+    {
+        "seo": "45-basic",
+        "label": ".45 Basic"
+    },
+    {
+        "label": ".500-465 Nitro Express",
+        "seo": "500-465-nitro-express"
+    },
+    {
+        "seo": "350-rigby",
+        "label": ".350 Rigby"
+    },
+    {
+        "label": ".400 Nitro Express",
+        "seo": "400-nitro-express"
+    },
+    {
+        "label": ".300 Rook (.295 Rook)",
+        "seo": "300-rook"
+    },
+    {
+        "label": ".295 Rook (.300 Rook)",
+        "seo": "300-rook"
+    },
+    {
+        "seo": "500-450-number-2",
+        "label": ".500-450 Number 2"
+    },
+    {
+        "label": ".577-500 Number 2",
+        "seo": "577-500-number-2"
+    },
+    {
+        "seo": "11.7x51mm",
+        "label": "11.7x51mm Danish"
+    },
+    {
+        "seo": "360-nitro-express",
+        "label": ".360 Nitro Express"
+    },
+    {
+        "label": ".423 Mauser (10.75x68mm Mauser)",
+        "seo": "423-mauser"
+    },
+    {
+        "seo": "423-mauser",
+        "label": "10.75x68mm Mauser (.423 Mauser)"
+    },
+    {
+        "label": ".360 No. 2 Nitro Express",
+        "seo": "360-no-2-nitro-express"
+    },
+    {
+        "label": ".310 Cadet (.310 Greener, .310 Martini)",
+        "seo": "310-cadet"
+    },
+    {
+        "label": ".310 Greener (.310 Cadet, .310 Martini)",
+        "seo": "310-cadet"
+    },
+    {
+        "label": ".310 Martini (.310 Cadet, .310 Greener)",
+        "seo": "310-cadet"
+    },
+    {
+        "label": ".475 No. 2 Nitro Express",
+        "seo": "475-no-2-nitro-express"
+    },
+    {
+        "seo": "6.5x58r",
+        "label": "6.5x58mmR"
+    },
+    {
+        "seo": "8x58r",
+        "label": "8x58mmR (8x58mmRD)"
+    },
+    {
+        "seo": "5.6x33r",
+        "label": "5.6x33mmR"
+    },
+    {
+        "label": ".30 H&H Super Flanged",
+        "seo": "30-super-flanged"
+    },
+    {
+        "seo": "22bb",
+        "label": "6MM Flobert (.22 BB)"
+    },
+    {
+        "seo": "375-raptor",
+        "label": ".375 Raptor"
+    },
+    {
+        "label": "6mm PPC",
+        "seo": "6mm-ppc"
+    },
+    {
+        "label": "6.5 Weatherby RPM",
+        "seo": "6.5-weatherby-rpm"
+    },
+    {
+        "label": ".27 Nosler",
+        "seo": "27nosler"
+    },
+    {
+        "label": "6mm ARC",
+        "seo": "6mm-arc"
+    },
+    {
+        "label": ".38/200",
+        "seo": "38-200"
+    },
+    {
+        "label": "9mm Major",
+        "seo": "9mm-major"
+    },
+    {
+        "seo": "277-fury",
+        "label": ".277 Fury"
+    },
+    {
+        "seo": "7.5-fk",
+        "label": "7.5 FK"
+    },
+    {
+        "seo": "9mm-supercomp",
+        "label": "9mm Super Comp (9x23)"
+    },
+    {
+        "label": "9x23 Super Comp (9mm Super Comp)",
+        "seo": "9mm-supercomp"
+    },
+    {
+        "label": ".38 Special Short",
+        "seo": "38-special-short"
+    },
+    {
+        "seo": "280-remington",
+        "label": "7mm-06 Rem (.280 Rem, 7mm Express Rem)"
+    },
+    {
+        "label": "7mm Express Rem (.280 Rem, 7mm-06 Rem)",
+        "seo": "280-remington"
+    },
+    {
+        "label": "7mm Blaser Magnum",
+        "seo": "7mm-blaser-magnum"
+    },
+    {
+        "label": ".495 A-Square",
+        "seo": "495-a-square"
+    },
+    {
+        "seo": "510-dtc",
+        "label": ".510 DTC"
+    },
+    {
+        "label": "9mm Winchester Magnum (9x29mm Win Mag)",
+        "seo": "9mm-winchester-magnum"
+    },
+    {
+        "seo": "9mm-winchester-magnum",
+        "label": "9x29mm Win Mag (9mm Winchester Magnum)"
+    },
+    {
+        "label": "6mm GT",
+        "seo": "6mm-gt"
+    },
+    {
+        "label": "6.8 Western",
+        "seo": "6.8-western"
+    },
+    {
+        "seo": "300-blaser-magnum",
+        "label": ".300 Blaser Mag"
+    },
+    {
+        "seo": "375-blaser-magnum",
+        "label": ".375 Blaser Mag"
+    },
+    {
+        "seo": "10mm-magnum",
+        "label": "10mm Magnum"
+    },
+    {
+        "seo": "6.5mm-prc",
+        "label": "6.5 PRC"
+    },
+    {
+        "label": "6mm Dasher",
+        "seo": "6mm-dasher"
+    },
+    {
+        "label": ".300 Blackout (7.62x35mm)",
+        "seo": "300aac-blackout"
+    },
+    {
+        "seo": "500-416-nitro-express",
+        "label": ".500-416 Nitro Express"
+    },
+    {
+        "label": ".30 WWG (Wild West Magnum)",
+        "seo": "30-wwg"
+    },
+    {
+        "label": ".30 Wild West Magnum (WWG)",
+        "seo": "30-wwg"
+    },
+    {
+        "seo": "35-wwg",
+        "label": ".35 WWG (Wild West Magnum)"
+    },
+    {
+        "seo": "35-wwg",
+        "label": ".35 Wild West Magnum (WWG)"
+    },
+    {
+        "label": "8mm/92 (8x27R, 8mm French Ordnance, 8mm Lebel Revolver)",
+        "seo": "8mm-lebel-revolver"
+    },
+    {
+        "seo": "8mm-lebel-revolver",
+        "label": "8x27R (8mm French Ordnance, 8mm Lebel Revolver, 8mm/92)"
+    },
+    {
+        "label": "8mm French Ordnance (8mm Lebel Revolver, 8mm/92, 8x27R)",
+        "seo": "8mm-lebel-revolver"
+    },
+    {
+        "label": "6.5x257 Roberts",
+        "seo": "6.5x257-roberts"
+    },
+    {
+        "label": "7.82 Patriot",
+        "seo": "7.82-patriot"
+    },
+    {
+        "label": "6x47mm Lapua",
+        "seo": "6x47mm-lapua"
+    },
+    {
+        "label": ".30 Super Carry",
+        "seo": "30-super-carry"
+    },
+    {
+        "seo": "8.6-blackout",
+        "label": "8.6 Blackout"
+    }
+]

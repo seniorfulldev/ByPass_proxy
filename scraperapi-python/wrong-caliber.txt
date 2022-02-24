@@ -1,0 +1,55 @@
+// .3
+// LOWER
+// 38 Casull
+// .22 Standard Velocity and Match Ammunition
+// .22 Stinger
+// .300 Dakota
+// .31 Caliber
+// .330 Dakota
+// .375 A-Square
+// .416 Dakota
+// .450 Dakota
+// 7mm Dakota
+// .54 Caliber
+// .577 Tyrannosaur
+// .600 Nitro Express
+// .700 Nitro Express
+// 700 RUM
+
+// .32 Blank
+// 45 Black Powder
+// .50 Caliber Black Powder
+// .44 Caliber Black Powder
+// .45 BPM
+// 44 Black Powder
+// 223 Wylde
+// 224 BOZ
+// 223 WYLDE/556 NATO
+// 375 Super Magnum
+// 410/45 Long Colt
+// 22/410
+// 4.5mm Steel BB
+// 6.17mm (.243) Lazzeroni Spitfire
+// 6.53mm (.257) Lazzeroni Scramjet
+// 6.71mm (.264) Lazzeroni Phantom
+// 7.21mm (.284) Lazzeroni Firebird
+// 8.59mm (.338) Lazzeroni Titan
+// 8mm Nambu Ammo
+// 38 AMU
+// .300 OSSM
+// .58 Caliber
+// 414 Super Magnum
+// 450 SMC
+// 44 Henry Rimfire
+// 44 Bulldog
+// .45 Caliber Rifle Bore
+// . 44 Russian
+// .75 Caliber
+// .223 Wylde Chamber
+// 9mm
+// .36 Caliber
+// 9mm Glisenti
+// 10 mm
+// 10.57mm (.416) Lazzeroni Meteor
+// 700 RUM
+// 50AE
